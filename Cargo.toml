@@ -1,0 +1,14 @@
+[package]
+name = "gusto"
+version = "0.1.0"
+authors = ["Alwin Doss <alwindoss84@gmail.com>"]
+edition = "2018"
+description = "Entertaining"
+license = "BSD-3-Clause"
+license-file = "LICENSE"
+keywords = ["fun", "entertaining"]
+repository = "https://github.com/alwindoss/gusto/"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
